@@ -1,8 +1,13 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🤖 Introduction
 
-Currently, two official plugins are available:
+uncover personalized travel experiences based on your unique preferences. Whether you're seeking peaceful escapes, vibrant destinations, or urban adventures, this tool tailors recommendations to match your pace and style. 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+⚙️ Tech Stack
+
+Three.js
+
+React.js
+
+Tailwind CSS
