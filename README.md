@@ -1,5 +1,3 @@
-# React + Vite
-
 🤖 Introduction
 
 uncover personalized travel experiences based on your unique preferences. Whether you're seeking peaceful escapes, vibrant destinations, or urban adventures, this tool tailors recommendations to match your pace and style. 
@@ -30,7 +28,20 @@ Ensure you have these preinstalled
 **Node.js**
 **npm**
 
-1. Clone this repository:  
+Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/interactive-3d-homepage.git
+   git clone https://github.com/sherlockmoriarity/travel_app.git
+```
+
+Installation
+
+Install the project dependencies using npm:
+   ```bash
+     npm install
+```
+Running the Project
+   ```bash
+     npm run dev
+```
+
 
