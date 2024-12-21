@@ -4,9 +4,9 @@ uncover personalized travel experiences based on your unique preferences. Whethe
 
 ⚙️ Tech Stack
 
-**Three.js**
-**React.js**
-**Tailwind CSS**
+- **Three.js**
+- **React.js**
+- **Tailwind CSS**
 
 🔋 Features
 
