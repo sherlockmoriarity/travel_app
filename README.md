@@ -33,8 +33,11 @@ uncover personalized travel experiences based on your unique preferences. Whethe
 🚀 Getting Started
 
 Ensure you have these preinstalled
+
 **Git**
+
 **Node.js**
+
 **npm**
 
 Clone this repository:  
@@ -42,12 +45,7 @@ Clone this repository:
    git clone https://github.com/sherlockmoriarity/travel_app.git
 ```
 
-Installation
 
-Install the project dependencies using npm:
-   ```bash
-     npm install
-```
 Running the Project
    ```bash
      npm run dev
